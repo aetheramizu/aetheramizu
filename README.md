@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/alifmohi_" target="_blank">
+  <a href="https://www.instagram.com/aliefmohi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
@@ -52,12 +52,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aetheramizu.aetheramizu&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
 </div>
 
 ###
