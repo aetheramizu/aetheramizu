@@ -1,40 +1,20 @@
-<h2 align="left">Hi 👋! My name is Alief</h2>
+## Hi, I'm Alief
 
-###
+Informatics Engineering student at Universitas Hasanuddin building full-stack web and mobile applications. I enjoy turning ideas into reliable, well-structured software across the web and mobile stack.
 
-<p align="left">I'm currently studying Informatics Engineering and learning more about programming, web development, and technology in general.</p>
+[Website](https://aliefmohi.web.id) · [LinkedIn](https://www.linkedin.com/in/mohamad-alief-nauval-mohi/) · [Instagram](https://www.instagram.com/aliefmohi)
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aetheramizu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### Tech Stack
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,flutter,dart,kotlin,supabase,firebase,postgres&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,flutter,dart,kotlin,supabase,firebase,postgres&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,flutter,dart,kotlin,supabase,firebase,postgres&theme=light" height="40" alt="TypeScript, Next.js, React, Tailwind CSS, Flutter, Dart, Kotlin, Supabase, Firebase, PostgreSQL" />
+</picture>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/aliefmohi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aetheramizu/aetheramizu/output/pacman-contribution-graph-dark.svg">
@@ -42,16 +22,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aetheramizu/aetheramizu/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<br clear="both">
-
-<img align="left" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjE0ZzB4eGg1eXoza3Vqcms3Mm81ZW16N2FubHRrdWxjZHppcmJkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1NyeMysspRypTlPSNf/giphy.gif"  />
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aetheramizu.aetheramizu&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aetheramizu.aetheramizu&" alt="visitor counter" />
 </div>
-
-###
