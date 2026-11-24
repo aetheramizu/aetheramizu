@@ -9,9 +9,9 @@ Informatics Engineering student at Universitas Hasanuddin building full-stack we
 ### Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,flutter,dart,kotlin,supabase,firebase,postgres&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,flutter,dart,kotlin,supabase,firebase,postgres&theme=light" />
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,flutter,dart,kotlin,supabase,firebase,postgres&theme=light" height="40" alt="TypeScript, Next.js, React, Tailwind CSS, Flutter, Dart, Kotlin, Supabase, Firebase, PostgreSQL" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind%2Cflutter%2Cdart%2Ckotlin%2Csupabase%2Cfirebase%2Cpostgres&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind%2Cflutter%2Cdart%2Ckotlin%2Csupabase%2Cfirebase%2Cpostgres&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind%2Cflutter%2Cdart%2Ckotlin%2Csupabase%2Cfirebase%2Cpostgres&theme=light" height="40" alt="TypeScript, Next.js, React, Tailwind CSS, Flutter, Dart, Kotlin, Supabase, Firebase, PostgreSQL" />
 </picture>
 
 ---
